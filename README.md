@@ -1,8 +1,8 @@
 # Git Cheat Sheet
 
 * Reset
-  * `git reset --hard`: I did not commit anything but changed a lot of files. I'd like to start over again
-  * `git reset --hard @~`:  I made a bad very bad commit. I'd like to get rid of it
+  * `git reset --hard`: I've not committed anything but I've changed a lot of files. I'd like to start over again.
+  * `git reset --hard @~`:  I made a bad very bad commit. I'd like to get rid of it completely. 
   
 * Merge
 * Branches
